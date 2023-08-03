@@ -1,5 +1,4 @@
-```markdown
-# movie_generate
+## movie_generate
 
 movie_generateは複数の動画ファイルをランダムに結合して新しい動画を生成するPythonスクリプトです。このスクリプトはFFmpegを使用して動画の結合と再エンコードを行います。結合された動画は再生可能なMP4ファイルとして出力されます。
 
@@ -9,7 +8,6 @@ movie_generateは複数の動画ファイルをランダムに結合して新し
 - FFmpeg
 
 ## インストール方法
-```
 
 1. このリポジトリをクローンします。
 
@@ -26,7 +24,7 @@ pip install -r requirements.txt
 
 2.FFmpegをダウンロードして、適切な場所に配置します。FFmpegのダウンロードページ
 
-使い方
+## 使い方
 1.motiongraphcsディレクトリに移動します。
 ```bash
 cd motiongraphcs
